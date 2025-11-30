@@ -1,0 +1,35 @@
+
+
+```gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Streamlit
+.streamlit/
+
+# Results
+results/*.csv
+results/*.json
+
+# Don't upload huge dataset
+worldcitiespop.csv
+*.zip
+*.7z
+*.rar
+*.tar.gz
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~
+
+# Cache
+.cache/
+
+# Image
+imsages/*.png

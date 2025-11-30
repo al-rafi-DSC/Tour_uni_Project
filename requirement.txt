@@ -1,0 +1,12 @@
+streamlit==1.32.0
+pandas==2.2.1
+numpy==1.26.4
+scikit-learn==1.4.1.post1
+folium==0.15.1
+streamlit-folium==0.15.0
+matplotlib==3.8.2
+rapidfuzz==3.6.1
+
+# Optional but commonly needed
+python-dateutil==2.9.0
+requests==2.31.0
