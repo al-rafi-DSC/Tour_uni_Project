@@ -72,22 +72,7 @@ You will see:
 
 ---
 
-### ✔️ 4. Use It as a Template for Your Own Projects  
-Developers can reuse:
-- Streamlit layouts  
-- Graph algorithms  
-- Geospatial visualizations  
-- Data-cleaning pipeline  
-
-Useful for:
-- Portfolios  
-- University projects  
-- Interview take-home tasks  
-- GIS demonstrations  
-
----
-
-### ✔️ 5. "Around the World in 80 Days" Challenge  
+### ✔️ 4. "Around the World in 80 Days" Challenge  
 The app tells you instantly whether your route completes within **80 days (1920 hours)**.
 
 ---
@@ -104,18 +89,6 @@ The app tells you instantly whether your route completes within **80 days (1920 
 | ✨ Smart Filters | Limit dataset by population & size |
 | 🗂️ CSV Export | Saves route & summary automatically |
 
----
-
-# 📂 Project Structure
-project/
-│── app/
-│ └── streamlit_app.py # main Streamlit application
-│── results/
-│ ├── summary.json # auto-saved run summary
-│ └── route_states.csv # full route data
-│── worldcitiespop.csv # massive dataset (NOT uploaded to GitHub)
-│── README.md
-│── .gitignore
 
 --- 
 
@@ -123,7 +96,6 @@ project/
 
 - Python **3.9+**
 - pip installed
-- (Optional) virtual environment
 
 ## 🧪 How to Run the App
 

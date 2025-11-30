@@ -27,6 +27,7 @@ worldcitiespop.csv
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb~
+*ipynb
 
 # Cache
 .cache/
